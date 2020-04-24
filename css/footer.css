@@ -1,0 +1,171 @@
+/* 底部 */
+#foot a:hover{
+	color: #FF6700;
+}
+#foot .site-footer .container{
+	width: 1226px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.site-footer .footer-service{
+	padding: 27px 0;
+}
+.site-footer .footer-service .list-service li{
+	float: left;
+	width: 19.8%;
+	height: 25px;
+	font-size: 16px;
+	line-height: 25px;
+	text-align: center;
+	border-left: 1px solid #e0e0e0;
+}
+.site-footer .footer-service .list-service li:first-child{
+	border-left: 0;
+}
+.site-footer .footer-service .list-service li a{
+	color: #616161;
+	transition: color .2s; 
+}
+.site-footer .footer-service .list-service li a em{
+	margin-right: 6px;
+	font-size: 24px;
+	line-height: 24px;
+	vertical-align: -4px;
+}
+hr{
+	border: 1px solid #E0E0E0;
+	margin-top: 27px;
+}
+.site-footer .footer-links{
+	padding: 40px 0;
+}
+.site-footer .footer-links .col-links{
+	width: 160px;
+	height: 112px;
+	float: left;
+	margin: 0;
+}
+.site-footer .footer-links .col-links dt{
+	margin: -1px 0 26px;
+	font-size: 14px;
+	line-height: 1.25;
+	color: #424242;
+	display: block;
+}
+.site-footer .footer-links .col-links dd{
+	margin: 10px 0 0;
+	font-size: 12px;
+}
+.site-footer .footer-links .col-links a{
+	color: #757575;
+}
+.site-footer .footer-links .col-contact{
+	float: right;
+	width: 251px;
+	border-left: 1px solid #e0e0e0;
+	text-align: center;
+	color: #616161;		
+}
+.site-footer .footer-links .col-contact .phone{
+	color: #ff6700;
+	font-size: 22px;
+	line-height: 1;
+}
+.site-footer .footer-links .col-contact p{
+	margin: 0 0 5px 0;
+	font-size: 12px;
+}
+.site-footer .footer-links .col-contact .customer-service{
+	border: 1px solid #FF6700;
+	color: #FF6700;
+	background-color: #fff;
+	width: 118px;
+	height: 28px;
+	font-size: 12px;
+	line-height: 28px;
+	display: inline-block;
+}
+.site-footer .footer-links .col-contact .customer-service:hover{
+	color: gray;
+	background-color: #FF6700;
+}
+.site-footer .footer-links .col-contact  .follow{
+	font-size: 12px;
+	margin-top: 10px;
+	position: relative;
+}
+.site-footer .footer-links .col-contact  .follow .wb{
+	    background: url(//cnbj1.fds.api.xiaomi.com/staticsfile/global/wb.png) 50% 0 no-repeat;
+		background-size: cover;
+}
+.site-footer .footer-links .col-contact  .follow .wx{
+	background: url(//cnbj1.fds.api.xiaomi.com/staticsfile/global/wx.png) 50% 0 no-repeat;
+	background-size: cover;
+}
+.site-footer .footer-links .col-contact  .follow a{
+	width: 24px;
+	height: 24px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 6px;
+	margin-top: -3px;
+}
+.site-info{
+	padding: 30px 0;
+	background-color: #FAFAFA;
+	font-size: 12px;
+}
+.site-info .container{
+	width: 1226px;
+	margin: 0 auto;
+	position: relative;
+}
+.site-info .container .logo{
+	width: 57px;
+	height: 57px;
+	position: absolute;
+	margin-right: 10px;
+	top: 0;
+	left: 0;
+	background: url(//s02.mifile.cn/assets/static/image/logo-footer.png) no-repeat 50% 50%;
+	display: block;
+	text-align: left;
+	text-indent: -9999em;
+	overflow: hidden;
+}
+.site-info .container .info-text{
+	color: #B0B0B0;
+	padding-left: 67px;
+}
+.site-info .container .info-text p{
+	line-height: 18px;
+}
+.site-info .container .info-text a{
+	color: #B0B0B0;
+}
+.site-info .container .info-text .sites a{
+	color: #757575;
+}
+.site-info .container .info-links{
+	height: 28px;
+	margin: 4px 0 0;
+	padding-left: 67px;
+}
+.site-info .container .info-links img{
+	width: auto;
+	height: 28px;
+	margin-left: 0;
+	margin-bottom: 15px;
+}
+.site-info .slogan{
+	clear: both;
+	margin: 30px auto 0;
+	width: 100%;
+	height: 19px;
+	background: url(//cnbj1.fds.api.xiaomi.com/staticsfile/global/slogan2020.png) no-repeat center 0;
+	display: block;
+	text-align: left;
+	text-indent: -9999em;
+	overflow: hidden;
+}
+
